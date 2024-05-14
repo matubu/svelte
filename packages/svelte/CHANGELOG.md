@@ -1,5 +1,15 @@
 # svelte
 
+## 5.0.0-next.134
+
+### Patch Changes
+
+- chore: improve SSR invalid element error message ([#11585](https://github.com/sveltejs/svelte/pull/11585))
+
+- feat: add $state.is rune ([#11613](https://github.com/sveltejs/svelte/pull/11613))
+
+- feat: provide $state warnings for accidental equality ([#11610](https://github.com/sveltejs/svelte/pull/11610))
+
 ## 5.0.0-next.133
 
 ### Patch Changes
